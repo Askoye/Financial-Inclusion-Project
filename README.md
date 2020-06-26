@@ -1,7 +1,7 @@
 # IP-Core
-# IP-week-4
+# IP-week-2
 
-# {IP Week 4 Analysis}
+# {IP Week 2 Analysis}
 
 #### {This is an independent project to be carried out for assessment}, {26/6/2020}
 ## By **{ Ted Askoye Samuel }**
