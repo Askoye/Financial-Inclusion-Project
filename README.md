@@ -1,22 +1,24 @@
-# IP-Core
-# IP-week-2
+P-Core
+IP-week-2
 
-# {IP Week 2 Analysis}
+IP Week 2 Analysis
 
-#### {This is an independent project to be carried out for assessment}, {26/6/2020}
-## By **{ Ted Askoye Samuel }**
+This is an independent project to be carried out for assessment, 26/6/2020
+By Ted Askoye Samuel 
+
 ## Description
 The objective of this report is to  figure out how we can predict which individuals are most likely to have or use a bank account and provide an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania, and Uganda, while providing insights into some of the key demographic factors that might drive individuals’ financial outcomes.
+The research problem is to figure out how we can predict which individuals are most likely to have or use a bank account and the analysis is tackled in the Colab Notebook
 
 ## Setup/Installation Requirements
-* A laptop and good internet connection
+* A laptop, Colabotory notebook and good internet connection
 
 ## Known Bugs
-{There are no known bugs. }
+There are no known bugs.
 ## Technologies Used
 Google Colaboratory, Github Account
 ## Support and contact details
-{For more information on the project contact the author on [tedsam10@gmail.com] .}
+For more information on the project contact the author on [tedsam10@gmail.com].
 ### LicenseMIT License
 
 Copyright (c) [2020] [Ted Askoye Samuel]
