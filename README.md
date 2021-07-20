@@ -1,6 +1,4 @@
-# IP-Core
-
-## IP-week-2
+# Financial Inclusion - Week 2
 
 ### IP Week 2 Analysis
 
