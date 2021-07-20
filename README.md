@@ -1,8 +1,4 @@
-# Financial Inclusion - Week 2
-
-### IP Week 2 Analysis
-
-This is an independent project to be carried out for assessment, 26/6/2020
+# Financial Inclusion Project
 
 ### *By Ted Askoye Samuel* 
 
