@@ -1,11 +1,12 @@
-IP-Core
+# IP-Core
 
-IP-week-2
+## IP-week-2
 
-IP Week 2 Analysis
+### IP Week 2 Analysis
 
 This is an independent project to be carried out for assessment, 26/6/2020
-By Ted Askoye Samuel 
+
+### *By Ted Askoye Samuel* 
 
 ## Description
 The objective of this report is to  figure out how we can predict which individuals are most likely to have or use a bank account and provide an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania, and Uganda, while providing insights into some of the key demographic factors that might drive individuals’ financial outcomes.
